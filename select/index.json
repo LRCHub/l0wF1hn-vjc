@@ -1,81 +1,9 @@
 {
   "version": 1,
-  "base_track": "ビターチョコデコレーション",
+  "base_track": "ビターチョコデコレーション（feat. 初音ミク）",
   "base_artist": "syudou",
-  "createdAt": "2025-12-25T03:33:08.414689Z",
+  "createdAt": "2026-02-14T09:18:39.814716Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション",
-      "artist": "syudou",
-      "has_synced": true,
-      "path": "select/01_ビターチョコデコレーション_syudou.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション",
-      "artist": "syudou feat. 初音ミク",
-      "has_synced": true,
-      "path": "select/02_ビターチョコデコレーション_syudou_feat._初音ミク.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション - Bitter Choco Decoration (feat. Yoisaki Kanade, Shinonome Ena",
-      "artist": "Nightcord at 25:00",
-      "has_synced": true,
-      "path": "select/03_ビターチョコデコレーション_-_Bitter_Choco_Decoration_(feat._Yoisaki_Kanade,_Shinonome_Ena_Nightcord_at_25_00.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション - Bitter Choco Decoration (feat. Yoisaki Kanade, Shinonome Ena & Hatsune Miku)",
-      "artist": "Nightcord at 25:00",
-      "has_synced": true,
-      "path": "select/04_ビターチョコデコレーション_-_Bitter_Choco_Decoration_(feat._Yoisaki_Kanade,_Shinonome_Ena_&_H_Nightcord_at_25_00.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション - Bitter Choco Decoration",
-      "artist": "syudou",
-      "has_synced": true,
-      "path": "select/05_ビターチョコデコレーション_-_Bitter_Choco_Decoration_syudou.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション(超学生 edition)",
-      "artist": "Chogakusei",
-      "has_synced": true,
-      "path": "select/06_ビターチョコデコレーション(超学生_edition)_Chogakusei.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション",
-      "artist": "25時、ナイトコードで。",
-      "has_synced": true,
-      "path": "select/07_ビターチョコデコレーション_25時、ナイトコードで。.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション",
-      "artist": "神田沙也加",
-      "has_synced": true,
-      "path": "select/08_ビターチョコデコレーション_神田沙也加.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "ビターチョコデコレーション (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
-      "artist": "25時、ナイトコードで。",
-      "has_synced": true,
-      "path": "select/09_ビターチョコデコレーション_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
